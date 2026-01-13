@@ -1,0 +1,7 @@
+{
+  "name": "仲介大師 Pro (EstateMaster Pro)",
+  "description": "一套專為仲介公司設計的全面管理系統，包含客戶關係管理、成交紀錄、包租代管、員工薪資、財務收支及合約自動提醒功能，內建 AI 業務洞察助手。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
